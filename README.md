@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning
-  - Functional programming
+- 🌱 I’m currently learning/playing with
+  - Azure Functions / Serverless thingies (or, how to get a huge bill while sleeping)
   - Distributed systems
 - 📫 How to reach me: 
-  - <a rel="me" href="https://hachyderm.io/@perfectlynormal">@perfectlynormal@hachyderm.io</a>
+  - <a rel="me" href="https://hachyderm.io/@perfectlynormal">@perfectlynormal @ hachyderm.io</a>
   - Mail
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Created this README in an attempt to get my GitHub link verified on Mastodon, but it doesn't appear to work. Oh well...
