@@ -4,7 +4,7 @@
   - Functional programming
   - Distributed systems
 - 📫 How to reach me: 
-  - <a rel="me" href="https://hachyderm.io/@perfectlynormal">perfectlynormal@hachyderm.io</a>
+  - <a rel="me" href="https://hachyderm.io/@perfectlynormal">@perfectlynormal@hachyderm.io</a>
   - Mail
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Created this README in an attempt to get my GitHub link verified on Mastodon
