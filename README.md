@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning
+  - Functional programming
+  - Distributed systems
+- 📫 How to reach me: 
+  - <a rel="me" href="https://hachyderm.io/@perfectlynormal">perfectlynormal@hachyderm.io</a>
+  - Mail
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Created this README in an attempt to get my GitHub link verified on Mastodon
+
 <!--
 **PerfectlyNormal/PerfectlyNormal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
