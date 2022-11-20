@@ -7,7 +7,7 @@
   - <a rel="me" href="https://hachyderm.io/@perfectlynormal">@perfectlynormal@hachyderm.io</a>
   - Mail
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Created this README in an attempt to get my GitHub link verified on Mastodon
+- ⚡ Fun fact: Created this README in an attempt to get my GitHub link verified on Mastodon, but it doesn't appear to work. Oh well...
 
 <!--
 **PerfectlyNormal/PerfectlyNormal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
